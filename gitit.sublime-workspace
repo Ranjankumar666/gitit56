@@ -1,0 +1,2195 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"try_",
+				"try_catch_finally"
+			],
+			[
+				"cr",
+				"credentials\tempty"
+			],
+			[
+				"fi",
+				"files.js"
+			],
+			[
+				"r",
+				"fs.FileReadStream"
+			],
+			[
+				"exis",
+				"existsSync\t(path: string) => boolean"
+			],
+			[
+				"ht",
+				"html\tmyHtml"
+			],
+			[
+				"setIS",
+				"setIsError\tany"
+			],
+			[
+				"ca",
+				"catch\t<U>(onReject: (error: any) => (Promise<U> | U)) => Promise<U>"
+			],
+			[
+				"ingredients",
+				"ingredientsFilter\tany"
+			],
+			[
+				"query",
+				"queryFilter\tstring"
+			],
+			[
+				"useEff",
+				"useEffect\tany"
+			],
+			[
+				"ingredeints",
+				"ingredientsHandler\tany"
+			],
+			[
+				"Ingredient",
+				"IngredientList.js"
+			],
+			[
+				"re",
+				"resolve\t<T>(object: (Promise<T> | T)) => Promise<T>"
+			],
+			[
+				"event",
+				"eventType\tany"
+			],
+			[
+				"grid-template",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"html",
+				"html\tmyHtml"
+			],
+			[
+				"imp",
+				"imp\timport"
+			],
+			[
+				"he",
+				"header.module.scss"
+			],
+			[
+				"next",
+				"nextProps\tany"
+			],
+			[
+				"se",
+				"setup\tinitial css"
+			],
+			[
+				"align-",
+				"align-items\tproperty"
+			],
+			[
+				"webpack",
+				"webpack.config.prod.js"
+			],
+			[
+				"inde",
+				"index.js"
+			],
+			[
+				"Pi",
+				"PizzaImage.css"
+			],
+			[
+				"h",
+				"html\tmyHtml"
+			],
+			[
+				"App",
+				"App.js"
+			],
+			[
+				"Nav",
+				"NavItem\tany"
+			],
+			[
+				"grid-",
+				"grid-column\tproperty"
+			],
+			[
+				"gridrow",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"dress",
+				"dress_3.jpeg\tw:275 h:183"
+			],
+			[
+				"dr",
+				"dress_1.jpeg\tw:1000 h:667"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"background-",
+				"background-color\tproperty"
+			],
+			[
+				"get",
+				"getSeconds\t() => number"
+			],
+			[
+				"logo",
+				"logout\t() => any"
+			],
+			[
+				"B",
+				"button/"
+			],
+			[
+				"co",
+				"components/"
+			],
+			[
+				"Error",
+				"ErrorBoundary\tclass ErrorBoundary"
+			],
+			[
+				"erro",
+				"ErrorBoundary\tany"
+			],
+			[
+				"exp",
+				"exp\texportDefault"
+			],
+			[
+				"Co",
+				"components/"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"fetchOrder",
+				"fetchOrderStart\t() => any"
+			],
+			[
+				"use",
+				"useEffect\tuseEffect"
+			],
+			[
+				"order",
+				"orderStart\tany"
+			],
+			[
+				"st",
+				"store/"
+			],
+			[
+				"action",
+				"actionTypes\tany"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"transl",
+				"translateX()\ttransform"
+			],
+			[
+				"cre",
+				"createStorage\tany"
+			],
+			[
+				"reduc",
+				"reducers/"
+			],
+			[
+				"Orders",
+				"Orders.css"
+			],
+			[
+				"In",
+				"Input.jsx"
+			],
+			[
+				"Sp",
+				"spinnner.jsx"
+			],
+			[
+				"ingred",
+				"IngredientPrices\t{|bacon: number, cheese: number, meat: number, salad: number|}"
+			],
+			[
+				"COnta",
+				"ContactData.jsx"
+			],
+			[
+				"Order",
+				"Order.jsx"
+			],
+			[
+				"o",
+				"Order/"
+			],
+			[
+				"Contact",
+				"ContactData.jsx"
+			],
+			[
+				"Form",
+				"Form.jsx"
+			],
+			[
+				"con",
+				"ContactData.jsx"
+			],
+			[
+				"encodeURi",
+				"encodeURIComponent\t(uriComponent: string) => string"
+			],
+			[
+				"encodeUR",
+				"encodeURIComponent\t(uriComponent: string) => string"
+			],
+			[
+				"Check",
+				"CheckoutSummary\tany"
+			],
+			[
+				"Ch",
+				"CheckoutSummary.jsx"
+			],
+			[
+				"Pos",
+				"Post.jsx"
+			],
+			[
+				"Post",
+				"Post.css"
+			],
+			[
+				"orderSummay",
+				"OrderSummary\tany"
+			],
+			[
+				"orderSumma",
+				"OrderSummary\tany"
+			],
+			[
+				"sate",
+				"state\tany"
+			],
+			[
+				"spinn",
+				"spinnner.jsx"
+			],
+			[
+				"ret",
+				"retirevedData\tany"
+			],
+			[
+				"Togg",
+				"ToggleButton.css"
+			],
+			[
+				"T",
+				"ToggleButton.css"
+			],
+			[
+				"ToggleButto",
+				"ToggleButton.jsx"
+			],
+			[
+				"To",
+				"ToggleButton/"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"apend",
+				"appendChild\t<T: Node>(newChild: T) => T"
+			],
+			[
+				"inner",
+				"innerText\tvoid | string"
+			],
+			[
+				"Si",
+				"SideDrawer.jsx"
+			],
+			[
+				"translate",
+				"translateX()\ttransform"
+			],
+			[
+				"Na",
+				"NavItem/"
+			],
+			[
+				"grid-templ",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"grid-template-s",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"Lo",
+				"Logo.css"
+			],
+			[
+				"Tob",
+				"Toolbar.css"
+			],
+			[
+				"im",
+				"imrd\timport ReactDOM"
+			],
+			[
+				"bu",
+				"button.jsx"
+			],
+			[
+				"butt",
+				"button.css"
+			],
+			[
+				"hoc",
+				"hoc/"
+			],
+			[
+				"Mo",
+				"Modal.jsx"
+			],
+			[
+				"Modal",
+				"Modal.css"
+			],
+			[
+				"p",
+				"isPurchasable\tany"
+			],
+			[
+				"intial",
+				"intialPrice\tany"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"BuildCO",
+				"BuildControl\tany"
+			],
+			[
+				"Bui",
+				"BuildControl\tany"
+			],
+			[
+				"Bu",
+				"BuildControl.css"
+			],
+			[
+				"Burger",
+				"BurgerIngredient\tany"
+			],
+			[
+				"Bur",
+				"BurgerIngredient/"
+			],
+			[
+				"asy",
+				"async_function"
+			],
+			[
+				"appe",
+				"appendChild\t<T: Node>(newChild: T) => T"
+			],
+			[
+				"pers",
+				"PersonIndex\tany"
+			],
+			[
+				"Per",
+				"PersonIndex\tany"
+			],
+			[
+				"toLOcale",
+				"toLocaleTimeString\t(locales?: (string | Array<string>), options?: Intl$DateTimeFormatOptions) => string"
+			],
+			[
+				"toLocale",
+				"toLocaleTimeString\t(locales?: (string | Array<string>), options?: Intl$DateTimeFormatOptions) => string"
+			],
+			[
+				"set",
+				"setInterval\t(func: function, milliseconds: number, ...params?: any) => number"
+			],
+			[
+				"grid-template-",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"grid-col",
+				"grid-column\tproperty"
+			],
+			[
+				"grid-auto",
+				"grid-auto-flow\tproperty"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"grid-temp",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"transla",
+				"translateY()\ttransform"
+			],
+			[
+				"obje",
+				"object-fit\tproperty"
+			],
+			[
+				"grid-row-",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"flex-",
+				"flex-start\talign-items"
+			],
+			[
+				"grid-tempal",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"trans",
+				"translateY()\ttransform"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ho",
+				"hotel-1.jpg\tw:1500 h:900"
+			],
+			[
+				"po",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 1330,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/files.js",
+			"settings":
+			{
+				"buffer_size": 208,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/github.js",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/repo.js",
+			"settings":
+			{
+				"buffer_size": 1680,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/inquirer.js",
+			"settings":
+			{
+				"buffer_size": 2305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ranjan@ubuntu:~/gitit$ sudo npm update -g\n^C^[[A\nranjan@ubuntu:~/gitit$ sudo npm remove gitit -g\nremoved 1 package in 23.44s                                                                       \nranjan@ubuntu:~/gitit$ sudo npm i -g\n/usr/local/bin/gitit -> /usr/local/lib/node_modules/gitit/index.js                                \n+ gitit@0.0.0                                                                                     \nadded 1 package in 12.607s                                                                        \nranjan@ubuntu:~/gitit$ ",
+			"settings":
+			{
+				"buffer_size": 553,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: html",
+				"Snippet: myHtml"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% %>)"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"javascript ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"terminus tab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"node",
+				"Nodejs::Run::Current File"
+			],
+			[
+				"baBEL",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sidebar",
+				"Browse Mode: Right Sidebar"
+			],
+			[
+				"js ",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"terminsu tab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus panel",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"ter tab",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"panel",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus pael",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus pan",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terminus pane",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus i",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"termi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termi pane",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminal tab",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terminus Panel",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi pan",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus pa",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"esl",
+				"Build With: ESLint"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"termina ",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"jbab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terminal ",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus ",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"scss ",
+				"Set Syntax: SCSS"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"html\t",
+				"Set Syntax: HTML"
+			],
+			[
+				"bem",
+				"Set Syntax: BEMHTML"
+			],
+			[
+				"term",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ter",
+				"SublimeREPL: Tower Console"
+			],
+			[
+				"sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"npm",
+				"npm: Run Script"
+			],
+			[
+				"SCSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"c++",
+				"Build With: C++ Single File"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 464.0,
+		"history":
+		[
+			"npm start"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ranjan/gitit"
+	],
+	"file_history":
+	[
+		"/home/ranjan/.config/sublime-text-3/Packages/User/require.sublime-snippet",
+		"/home/ranjan/hooks-01-starting-project/src/components/Ingredients/IngredientList.js",
+		"/home/ranjan/gitit/package.json",
+		"/home/ranjan/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+		"/home/ranjan/hooks-01-starting-project/package.json",
+		"/home/ranjan/hooks-01-starting-project/src/index.css",
+		"/home/ranjan/jsBasic/index.js",
+		"/home/ranjan/jsBasic/.eslintrc",
+		"/home/ranjan/animations--01-start/.eslintrc",
+		"/home/ranjan/jsBasic/package.json",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ranjan/animations--01-start/src/App.js",
+		"/home/ranjan/.mongorc.js",
+		"/home/ranjan/nextJSProject/components/Nav.js",
+		"/home/ranjan/nextJSProject/components/nav.module.scss",
+		"/home/ranjan/nextJSProject/components/front.module.scss",
+		"/home/ranjan/nextJSProject/styles/_animations.scss",
+		"/home/ranjan/nextJSProject/components/header.module.scss",
+		"/home/ranjan/nextJSProject/components/header.js",
+		"/home/ranjan/nextJSProject/components/checkbox.js",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/impFunc.sublime-snippet",
+		"/home/ranjan/nextJSProject/package.json",
+		"/home/ranjan/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/ranjan/nextJSProject/styles/global.css",
+		"/home/ranjan/nextJSProject/pages/_app.js",
+		"/home/ranjan/nextJSProject/global.module.scss",
+		"/home/ranjan/webpackProject/webpack.config.js",
+		"/home/ranjan/webpackProject/src/index.css",
+		"/home/ranjan/webpackProject/App.jsx",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/impcomp.sublime-snippet",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/imgFit.sublime-snippet",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/initialCss.sublime-snippet",
+		"/home/ranjan/webpackProject/src/index.html",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/myHtml2.sublime-snippet",
+		"/home/ranjan/.config/sublime-text-3/Packages/User/myHtml.sublime-snippet",
+		"/home/ranjan/training/sass/_base.scss",
+		"/home/ranjan/webpack/webpack.sublime-project",
+		"/home/ranjan/react-complete-guide/src/store/reducer/auth.js",
+		"/home/ranjan/react-complete-guide/src/containers/Checkout/Checkout.jsx",
+		"/home/ranjan/react-complete-guide/src/store/reducer/auth.test.js",
+		"/home/ranjan/react-complete-guide/src/App.js",
+		"/home/ranjan/react-complete-guide/src/App.test.js",
+		"/home/ranjan/training/sass/components/_header.scss",
+		"/home/ranjan/training/sass/utils/_utils.scss",
+		"/home/ranjan/training/sass/main.scss",
+		"/home/ranjan/training/index.html",
+		"/home/ranjan/training/sass/components/_footer.scss",
+		"/home/ranjan/training/sass/components/_body.scss",
+		"/home/ranjan/training/package.json",
+		"/home/ranjan/training/css/style.css",
+		"/home/ranjan/react-complete-guide/src/index.js",
+		"/home/ranjan/react-complete-guide/src/components/BuildControls/BuildControls.jsx",
+		"/home/ranjan/react-complete-guide/src/containers/Auth/Auth.jsx",
+		"/home/ranjan/react-complete-guide/src/containers/Contact_form/ContactData.jsx",
+		"/home/ranjan/react-complete-guide/src/containers/Auth/AuthPage/AuthPage.jsx",
+		"/home/ranjan/react-complete-guide/src/containers/BurgerBuilder/BurgerBuilder.jsx",
+		"/home/ranjan/react-complete-guide/src/containers/Orders/Orders.jsx",
+		"/home/ranjan/react-complete-guide/src/hoc/lazyLoader.jsx",
+		"/home/ranjan/react-complete-guide/src/components/Burger/Burger.css",
+		"/home/ranjan/react-complete-guide/src/components/Navigation/Sidedrawer/SideDrawer.jsx",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/components/_search.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/components/_list.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/components/_header.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/components/_country.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/main.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/components/_components.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/components/_body.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/views/search.ejs",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/utils/_utils.scss",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/public/script.js",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/api.txt",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/package.json",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/design/desktop-design-detail-light.jpg",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/nodemon.json",
+		"/home/ranjan/react-complete-guide/src/store/actions/order.js",
+		"/home/ranjan/react-complete-guide/src/components/Navigation/NavItems/NavItems.jsx",
+		"/home/ranjan/react-complete-guide/src/store/reducer/BurgerBuilder.js",
+		"/home/ranjan/react-complete-guide/src/utility.js",
+		"/home/ranjan/react-complete-guide/src/store/actions/actionTypes.js",
+		"/home/ranjan/react-complete-guide/src/store/actions/auth.js",
+		"/home/ranjan/react-complete-guide/src/components/OrderSummay/OrderSummary.jsx",
+		"/home/ranjan/react-complete-guide/src/components/Navigation/NavItems/NavItem/NavItem.css",
+		"/home/ranjan/react-complete-guide/src/containers/Auth/Logout/Logout.jsx",
+		"/home/ranjan/react-complete-guide/src/hoc/withErrorHandler.jsx",
+		"/home/ranjan/react-complete-guide/src/containers/Auth/Logout/Logout.jsz",
+		"/home/ranjan/react-complete-guide/src/components/Layout/Layout.jsx",
+		"/home/ranjan/react-complete-guide/src/components/Navigation/Toolbar/Toolbar.jsx",
+		"/home/ranjan/react-complete-guide/src/components/Order/Order.jsx",
+		"/home/ranjan/react-complete-guide/src/components/ErrorBoundary/ErrorBoundary.jsx",
+		"/home/ranjan/react-complete-guide/src/components/AuthPage/AuthPage.jsx",
+		"/home/ranjan/react-complete-guide/.env",
+		"/home/ranjan/react-complete-guide/src/axios-auth.js",
+		"/home/ranjan/react-complete-guide/src/components/Form/Input/Input.jsx",
+		"/home/ranjan/react-complete-guide/src/containers/Auth/Auth.css",
+		"/home/ranjan/react-complete-guide/src/components/AuthPage/AuthPage.css",
+		"/home/ranjan/Downloads/rest-countries-api-with-color-theme-switcher-master/sass/_animations.scss",
+		"/home/ranjan/react-complete-guide/src/components/Order/Order.css",
+		"/home/ranjan/dstruct/priorityQueueBH.js",
+		"/home/ranjan/dstruct/heapSSort.js",
+		"/home/ranjan/dstruct/heapclass.js",
+		"/home/ranjan/react-complete-guide/src/store/reducer/order.js",
+		"/home/ranjan/react-complete-guide/src/components/Form/Form.jsx",
+		"/home/ranjan/react-complete-guide/src/components/UI/button/button.css",
+		"/home/ranjan/react-complete-guide/src/components/Form/Form.css",
+		"/home/ranjan/react-complete-guide/src/store/actions/BurgerBuilder.js",
+		"/home/ranjan/palleter.css",
+		"/home/ranjan/redux--01-start/src/store/actions/index.js",
+		"/home/ranjan/redux--01-start/src/containers/Counter/Counter.js",
+		"/home/ranjan/redux--01-start/src/store/reducers/results.js",
+		"/home/ranjan/redux--01-start/src/store/reducers/counter.js",
+		"/home/ranjan/redux--01-start/src/store/actions/action.js",
+		"/home/ranjan/.config/sublime-text-3/Packages/Babel/Babel.sublime-settings",
+		"/home/ranjan/redux--01-start/src/store/reducer.js",
+		"/home/ranjan/Downloads/find-the-symmetric-difference.txt",
+		"/home/ranjan/.config/sublime-text-3/Packages/Trimmer/Default (Linux).sublime-keymap",
+		"/home/ranjan/.config/sublime-text-3/Packages/Alignment/Default (Linux).sublime-keymap",
+		"/home/ranjan/.config/sublime-text-3/Packages/Alignment/Base File.sublime-settings",
+		"/home/ranjan/react-complete-guide/src/store/action.js",
+		"/home/ranjan/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/ranjan/.config/sublime-text-3/Packages/auto_close/README.md",
+		"/home/ranjan/redux--01-start/src/store/action.js",
+		"/home/ranjan/redux--01-start/package.json",
+		"/home/ranjan/.config/sublime-text-3/Packages/Terminus/Default.sublime-commands",
+		"/home/ranjan/redux--01-start/store/reducer.js",
+		"/home/ranjan/redux--01-start/redux-basic.js",
+		"/home/ranjan/react-complete-guide/src/containers/Orders/Orders.css",
+		"/home/ranjan/react-complete-guide/src/components/Form/Input/Input.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1330,
+						"regions":
+						{
+							"col_003399FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										277,
+										284
+									]
+								],
+								"scope": "col_003399FF"
+							},
+							"col_003399FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_003399FF_circle.png",
+								"regions":
+								[
+									[
+										254,
+										254
+									]
+								],
+								"scope": "col_gutter"
+							},
+							"col_999900FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										464,
+										468
+									],
+									[
+										966,
+										970
+									]
+								],
+								"scope": "col_999900FF"
+							},
+							"col_999900FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_999900FF_circle.png",
+								"regions":
+								[
+									[
+										439,
+										439
+									],
+									[
+										933,
+										933
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								943,
+								943
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										988,
+										989
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										741,
+										742
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "Babel/JavaScript (Babel)",
+								"enabled": false,
+								"last_updated": 1598869484.01
+							},
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										362,
+										363
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										353,
+										354
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".json",
+								"current_syntax": "zzz A File Icon zzz/aliases/JSON (NPM)",
+								"enabled": false,
+								"last_updated": 1598869484.01
+							},
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 312.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/files.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "Babel/JavaScript (Babel)",
+								"enabled": false,
+								"last_updated": 1598869484.01
+							},
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/github.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "Babel/JavaScript (Babel)",
+								"enabled": false,
+								"last_updated": 1598869484.01
+							},
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 529.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/repo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								789,
+								789
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										794,
+										795
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										780,
+										781
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "Babel/JavaScript (Babel)",
+								"enabled": false,
+								"last_updated": 1598869484.01
+							},
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1014.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": "",
+								"current_syntax": "Git Formats/Git Ignore",
+								"enabled": false,
+								"last_updated": 1598869484.01
+							},
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/inquirer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1533,
+								1533
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1989,
+										1990
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1249,
+										1250
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "Babel/JavaScript (Babel)",
+								"enabled": false,
+								"last_updated": 1598869484.01
+							},
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1716.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_helper.box_height": 24,
+							"color_helper.color_scheme": "Terminus.hidden-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": null,
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1598804177.43
+							},
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/home/ranjan/canvasAPI",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/ranjan/gitit",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 4,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/home/ranjan/gitit",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 1.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.261774828362,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 192.0
+	},
+	"pinned_build_system": "",
+	"project": "gitit.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gh",
+				"graph.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 181.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"App"
+			]
+		],
+		"width": 997.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
